@@ -1,4 +1,4 @@
-.App {
+body {
   text-align: center;
 }
 
@@ -35,4 +35,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+.but1{
+  text-align: center;
+  align-content: center;
 }
